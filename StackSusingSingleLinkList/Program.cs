@@ -19,6 +19,14 @@ namespace StackSusingSingleLinkList
     class Stack
     {
         node top;
+        public Stack()
+        {
+            top = null;
+        }
+        bool empty()
+        {
+            
+        }
         
     }
     class Program
