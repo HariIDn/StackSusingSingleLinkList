@@ -40,7 +40,10 @@ namespace StackSusingSingleLinkList
             Console.WriteLine("\n" + element + "Pushed");
         }
 
-        
+        public void pop()
+        {
+           
+        }
         static void Main(string[] args)
         {
             
