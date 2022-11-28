@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace StackSusingSingleLinkList
 {
+    class node
+    {
+        
+    }
     
     class Program
     {
