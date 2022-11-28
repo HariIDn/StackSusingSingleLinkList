@@ -30,12 +30,14 @@ namespace StackSusingSingleLinkList
             else
                 return (false);
         }
-        
-    }
-    class Program
-    {
+        public void push(int element)
+        {
+            
+        }
         static void Main(string[] args)
         {
+            
         }
     }
+    
 }
