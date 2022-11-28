@@ -18,6 +18,7 @@ namespace StackSusingSingleLinkList
     }
     class Stack
     {
+        node top;
         
     }
     class Program
